@@ -1,0 +1,1 @@
+[{"airlineIata":"AI","arrivalIata":"DEL","departureIata":"GAY","codeshares":null,"flightNumber":"236","arrivalTime":"17:30:00","departureTime":"15:45:00"},{"airlineIata":"MJ","arrivalIata":"CMB","departureIata":"GAY","codeshares":[{"airline_code":"UL","flight_number":"2944"}],"flightNumber":"312","arrivalTime":"12:25:00","departureTime":"09:15:00"}]

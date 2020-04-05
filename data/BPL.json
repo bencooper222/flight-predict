@@ -1,0 +1,1 @@
+[{"airlineIata":"GS","arrivalIata":"URC","departureIata":"BPL","codeshares":null,"flightNumber":"7506","arrivalTime":"11:45:00","departureTime":"10:50:00"},{"airlineIata":"GS","arrivalIata":"URC","departureIata":"BPL","codeshares":[{"airline_code":"HU","flight_number":"5508"}],"flightNumber":"7508","arrivalTime":"21:00:00","departureTime":"20:00:00"}]

@@ -1,0 +1,36 @@
+{
+  "name": "flight-routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "geo-distance": "^0.2.0",
+    "geo-distance-js": "^1.0.0",
+    "geodist": "^0.2.1",
+    "leaflet": "^1.6.0",
+    "ml5": "^0.5.0",
+    "node-fetch": "^2.6.0",
+    "parcel-plugin-static-files-copy": "^2.3.1",
+    "yargs": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "visualize": "parcel visualizer/index.html",
+    "learn": "parcel learner/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "last 2 Chrome versions"
+  ],
+  "staticFiles": {
+    "staticPath": "learner/model",
+    "watcherGlob": "**"
+  }
+}

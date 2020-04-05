@@ -1,0 +1,2102 @@
+[
+    {
+      "iata": "ATL",
+      "enplanements": 51865797
+    },
+    {
+      "iata": "LAX",
+      "enplanements": 42624050
+    },
+    {
+      "iata": "ORD",
+      "enplanements": 39873927
+    },
+    {
+      "iata": "DFW",
+      "enplanements": 32821799
+    },
+    {
+      "iata": "DEN",
+      "enplanements": 31362941
+    },
+    {
+      "iata": "JFK",
+      "enplanements": 30620769
+    },
+    {
+      "iata": "SFO",
+      "enplanements": 27790717
+    },
+    {
+      "iata": "SEA",
+      "enplanements": 24024908
+    },
+    {
+      "iata": "LAS",
+      "enplanements": 23795012
+    },
+    {
+      "iata": "MCO",
+      "enplanements": 23202480
+    },
+    {
+      "iata": "EWR",
+      "enplanements": 22797602
+    },
+    {
+      "iata": "CLT",
+      "enplanements": 22281949
+    },
+    {
+      "iata": "PHX",
+      "enplanements": 21622580
+    },
+    {
+      "iata": "IAH",
+      "enplanements": 21157398
+    },
+    {
+      "iata": "MIA",
+      "enplanements": 21021640
+    },
+    {
+      "iata": "BOS",
+      "enplanements": 20006521
+    },
+    {
+      "iata": "MSP",
+      "enplanements": 18361942
+    },
+    {
+      "iata": "FLL",
+      "enplanements": 17612331
+    },
+    {
+      "iata": "DTW",
+      "enplanements": 17436837
+    },
+    {
+      "iata": "PHL",
+      "enplanements": 15292670
+    },
+    {
+      "iata": "LGA",
+      "enplanements": 15058501
+    },
+    {
+      "iata": "BWI",
+      "enplanements": 13371816
+    },
+    {
+      "iata": "SLC",
+      "enplanements": 12226730
+    },
+    {
+      "iata": "SAN",
+      "enplanements": 12174224
+    },
+    {
+      "iata": "IAD",
+      "enplanements": 11621623
+    },
+    {
+      "iata": "DCA",
+      "enplanements": 11366771
+    },
+    {
+      "iata": "MDW",
+      "enplanements": 10678018
+    },
+    {
+      "iata": "TPA",
+      "enplanements": 10368514
+    },
+    {
+      "iata": "HNL",
+      "enplanements": 10017149
+    },
+    {
+      "iata": "PDX",
+      "enplanements": 9804868
+    },
+    {
+      "iata": 30,
+      "enplanements": ""
+    },
+    {
+      "iata": "BNA",
+      "enplanements": 8017347
+    },
+    {
+      "iata": "DAL",
+      "enplanements": 8011221
+    },
+    {
+      "iata": "AUS",
+      "enplanements": 7714479
+    },
+    {
+      "iata": "STL",
+      "enplanements": 7631953
+    },
+    {
+      "iata": "HOU",
+      "enplanements": 7053886
+    },
+    {
+      "iata": "SJC",
+      "enplanements": 7032851
+    },
+    {
+      "iata": "OAK",
+      "enplanements": 6686603
+    },
+    {
+      "iata": "MSY",
+      "enplanements": 6582066
+    },
+    {
+      "iata": "RDU",
+      "enplanements": 6258101
+    },
+    {
+      "iata": "SMF",
+      "enplanements": 5907629
+    },
+    {
+      "iata": "MCI",
+      "enplanements": 5790847
+    },
+    {
+      "iata": "SNA",
+      "enplanements": 5201642
+    },
+    {
+      "iata": "SAT",
+      "enplanements": 4844427
+    },
+    {
+      "iata": "CLE",
+      "enplanements": 4701713
+    },
+    {
+      "iata": "PIT",
+      "enplanements": 4670033
+    },
+    {
+      "iata": "IND",
+      "enplanements": 4655847
+    },
+    {
+      "iata": "RSW",
+      "enplanements": 4602113
+    },
+    {
+      "iata": "CVG",
+      "enplanements": 4269258
+    },
+    {
+      "iata": "SJU",
+      "enplanements": 4033412
+    },
+    {
+      "iata": "CMH",
+      "enplanements": 3976620
+    },
+    {
+      "iata": "OGG",
+      "enplanements": 3571660
+    },
+    {
+      "iata": "MKE",
+      "enplanements": 3496724
+    },
+    {
+      "iata": "BDL",
+      "enplanements": 3278035
+    },
+    {
+      "iata": "PBI",
+      "enplanements": 3270605
+    },
+    {
+      "iata": "JAX",
+      "enplanements": 3135508
+    },
+    {
+      "iata": "BUR",
+      "enplanements": 2680240
+    },
+    {
+      "iata": "ABQ",
+      "enplanements": 2647269
+    },
+    {
+      "iata": "ANC",
+      "enplanements": 2642607
+    },
+    {
+      "iata": "BUF",
+      "enplanements": 2523158
+    },
+    {
+      "iata": "ONT",
+      "enplanements": 2498993
+    },
+    {
+      "iata": "OMA",
+      "enplanements": 2454878
+    },
+    {
+      "iata": 31,
+      "enplanements": ""
+    },
+    {
+      "iata": "MEM",
+      "enplanements": 2213083
+    },
+    {
+      "iata": "CHS",
+      "enplanements": 2192893
+    },
+    {
+      "iata": "PVD",
+      "enplanements": 2117409
+    },
+    {
+      "iata": "OKC",
+      "enplanements": 2094708
+    },
+    {
+      "iata": "RNO",
+      "enplanements": 2048916
+    },
+    {
+      "iata": "RIC",
+      "enplanements": 2048691
+    },
+    {
+      "iata": "BOI",
+      "enplanements": 1943181
+    },
+    {
+      "iata": "LGB",
+      "enplanements": 1908635
+    },
+    {
+      "iata": "SDF",
+      "enplanements": 1877861
+    },
+    {
+      "iata": "GEG",
+      "enplanements": 1872781
+    },
+    {
+      "iata": "ORF",
+      "enplanements": 1846031
+    },
+    {
+      "iata": "KOA",
+      "enplanements": 1829020
+    },
+    {
+      "iata": "TUS",
+      "enplanements": 1753227
+    },
+    {
+      "iata": "GUM",
+      "enplanements": 1736131
+    },
+    {
+      "iata": "LIH",
+      "enplanements": 1644590
+    },
+    {
+      "iata": "GRR",
+      "enplanements": 1631398
+    },
+    {
+      "iata": "ELP",
+      "enplanements": 1605486
+    },
+    {
+      "iata": "SFB",
+      "enplanements": 1504888
+    },
+    {
+      "iata": "TUL",
+      "enplanements": 1482908
+    },
+    {
+      "iata": "BHM",
+      "enplanements": 1457562
+    },
+    {
+      "iata": "ALB",
+      "enplanements": 1440674
+    },
+    {
+      "iata": "SAV",
+      "enplanements": 1356660
+    },
+    {
+      "iata": "DSM",
+      "enplanements": 1347876
+    },
+    {
+      "iata": "ROC",
+      "enplanements": 1281908
+    },
+    {
+      "iata": "MYR",
+      "enplanements": 1254307
+    },
+    {
+      "iata": "PSP",
+      "enplanements": 1163883
+    },
+    {
+      "iata": "SYR",
+      "enplanements": 1139568
+    },
+    {
+      "iata": "GSP",
+      "enplanements": 1133012
+    },
+    {
+      "iata": "PIE",
+      "enplanements": 1115886
+    },
+    {
+      "iata": "TYS",
+      "enplanements": 1069565
+    },
+    {
+      "iata": "PWM",
+      "enplanements": 1062873
+    },
+    {
+      "iata": "MSN",
+      "enplanements": 1043185
+    },
+    {
+      "iata": "LIT",
+      "enplanements": 1031258
+    },
+    {
+      "iata": "PNS",
+      "enplanements": 972081
+    },
+    {
+      "iata": "GSO",
+      "enplanements": 938593
+    },
+    {
+      "iata": "MHT",
+      "enplanements": 911225
+    },
+    {
+      "iata": "DAY",
+      "enplanements": 858022
+    },
+    {
+      "iata": "FAT",
+      "enplanements": 853538
+    },
+    {
+      "iata": "COS",
+      "enplanements": 845742
+    },
+    {
+      "iata": "ICT",
+      "enplanements": 812252
+    },
+    {
+      "iata": "ISP",
+      "enplanements": 811535
+    },
+    {
+      "iata": "HPN",
+      "enplanements": 789283
+    },
+    {
+      "iata": "PGD",
+      "enplanements": 787022
+    },
+    {
+      "iata": "IWA",
+      "enplanements": 778972
+    },
+    {
+      "iata": "XNA",
+      "enplanements": 759127
+    },
+    {
+      "iata": "SRQ",
+      "enplanements": 685001
+    },
+    {
+      "iata": "VPS",
+      "enplanements": 683759
+    },
+    {
+      "iata": "BZN",
+      "enplanements": 670295
+    },
+    {
+      "iata": "BTV",
+      "enplanements": 658879
+    },
+    {
+      "iata": "LEX",
+      "enplanements": 657018
+    },
+    {
+      "iata": "MDT",
+      "enplanements": 636756
+    },
+    {
+      "iata": "MAF",
+      "enplanements": 618794
+    },
+    {
+      "iata": "CID",
+      "enplanements": 602058
+    },
+    {
+      "iata": "ITO",
+      "enplanements": 599148
+    },
+    {
+      "iata": "GSN",
+      "enplanements": 595181
+    },
+    {
+      "iata": "HSV",
+      "enplanements": 580932
+    },
+    {
+      "iata": "AVL",
+      "enplanements": 573206
+    },
+    {
+      "iata": "ACY",
+      "enplanements": 568958
+    },
+    {
+      "iata": "EUG",
+      "enplanements": 566832
+    },
+    {
+      "iata": "CAE",
+      "enplanements": 566660
+    },
+    {
+      "iata": "FAI",
+      "enplanements": 549289
+    },
+    {
+      "iata": "FSD",
+      "enplanements": 529895
+    },
+    {
+      "iata": "SGF",
+      "enplanements": 523108
+    },
+    {
+      "iata": "ECP",
+      "enplanements": 512423
+    },
+    {
+      "iata": "CHA",
+      "enplanements": 504833
+    },
+    {
+      "iata": "MFR",
+      "enplanements": 492217
+    },
+    {
+      "iata": "JAN",
+      "enplanements": 489454
+    },
+    {
+      "iata": "LBB",
+      "enplanements": 484010
+    },
+    {
+      "iata": "ILM",
+      "enplanements": 468816
+    },
+    {
+      "iata": 69,
+      "enplanements": ""
+    },
+    {
+      "iata": "CAK",
+      "enplanements": 449731
+    },
+    {
+      "iata": "EYW",
+      "enplanements": 446005
+    },
+    {
+      "iata": "JNU",
+      "enplanements": 440277
+    },
+    {
+      "iata": "BIL",
+      "enplanements": 440263
+    },
+    {
+      "iata": "RDM",
+      "enplanements": 430562
+    },
+    {
+      "iata": "FAR",
+      "enplanements": 429667
+    },
+    {
+      "iata": "MSO",
+      "enplanements": 425563
+    },
+    {
+      "iata": "STT",
+      "enplanements": 417871
+    },
+    {
+      "iata": "TTN",
+      "enplanements": 404349
+    },
+    {
+      "iata": "SBA",
+      "enplanements": 403745
+    },
+    {
+      "iata": "PSC",
+      "enplanements": 395348
+    },
+    {
+      "iata": "BTR",
+      "enplanements": 390107
+    },
+    {
+      "iata": "TLH",
+      "enplanements": 384136
+    },
+    {
+      "iata": "JAC",
+      "enplanements": 381539
+    },
+    {
+      "iata": "ABE",
+      "enplanements": 376468
+    },
+    {
+      "iata": "FWA",
+      "enplanements": 372030
+    },
+    {
+      "iata": "BLI",
+      "enplanements": 368186
+    },
+    {
+      "iata": "DAB",
+      "enplanements": 366967
+    },
+    {
+      "iata": "SBN",
+      "enplanements": 366617
+    },
+    {
+      "iata": "FNT",
+      "enplanements": 361709
+    },
+    {
+      "iata": "GPT",
+      "enplanements": 359055
+    },
+    {
+      "iata": "AMA",
+      "enplanements": 355705
+    },
+    {
+      "iata": "MLI",
+      "enplanements": 355241
+    },
+    {
+      "iata": "SWF",
+      "enplanements": 354869
+    },
+    {
+      "iata": "CHO",
+      "enplanements": 352816
+    },
+    {
+      "iata": "ATW",
+      "enplanements": 348026
+    },
+    {
+      "iata": "MFE",
+      "enplanements": 347440
+    },
+    {
+      "iata": "BGR",
+      "enplanements": 336410
+    },
+    {
+      "iata": "CRP",
+      "enplanements": 332499
+    },
+    {
+      "iata": "ROA",
+      "enplanements": 330063
+    },
+    {
+      "iata": "PIA",
+      "enplanements": 328769
+    },
+    {
+      "iata": "GRB",
+      "enplanements": 314909
+    },
+    {
+      "iata": "GPI",
+      "enplanements": 307242
+    },
+    {
+      "iata": "RAP",
+      "enplanements": 303471
+    },
+    {
+      "iata": "HRL",
+      "enplanements": 302236
+    },
+    {
+      "iata": "AGS",
+      "enplanements": 300598
+    },
+    {
+      "iata": "MOB",
+      "enplanements": 297544
+    },
+    {
+      "iata": "BQN",
+      "enplanements": 294921
+    },
+    {
+      "iata": "SHV",
+      "enplanements": 291136
+    },
+    {
+      "iata": "GCN",
+      "enplanements": 289278
+    },
+    {
+      "iata": "ASE",
+      "enplanements": 285448
+    },
+    {
+      "iata": "BIS",
+      "enplanements": 285198
+    },
+    {
+      "iata": "AVP",
+      "enplanements": 258628
+    },
+    {
+      "iata": "TVC",
+      "enplanements": 247324
+    },
+    {
+      "iata": "SBP",
+      "enplanements": 235570
+    },
+    {
+      "iata": "FAY",
+      "enplanements": 234998
+    },
+    {
+      "iata": "MLB",
+      "enplanements": 234939
+    },
+    {
+      "iata": "GNV",
+      "enplanements": 233955
+    },
+    {
+      "iata": "EVV",
+      "enplanements": 228850
+    },
+    {
+      "iata": "LFT",
+      "enplanements": 223529
+    },
+    {
+      "iata": "GJT",
+      "enplanements": 221978
+    },
+    {
+      "iata": "STS",
+      "enplanements": 217480
+    },
+    {
+      "iata": "CRW",
+      "enplanements": 216873
+    },
+    {
+      "iata": "STX",
+      "enplanements": 212812
+    },
+    {
+      "iata": "BVU",
+      "enplanements": 205690
+    },
+    {
+      "iata": "TRI",
+      "enplanements": 200086
+    },
+    {
+      "iata": "PHF",
+      "enplanements": 195573
+    },
+    {
+      "iata": "DRO",
+      "enplanements": 189225
+    },
+    {
+      "iata": "MRY",
+      "enplanements": 186806
+    },
+    {
+      "iata": "LAN",
+      "enplanements": 184018
+    },
+    {
+      "iata": "RST",
+      "enplanements": 182509
+    },
+    {
+      "iata": "BMI",
+      "enplanements": 178057
+    },
+    {
+      "iata": "GTF",
+      "enplanements": 176434
+    },
+    {
+      "iata": "EGE",
+      "enplanements": 173863
+    },
+    {
+      "iata": "MGM",
+      "enplanements": 170544
+    },
+    {
+      "iata": "IDA",
+      "enplanements": 161019
+    },
+    {
+      "iata": "BET",
+      "enplanements": 160110
+    },
+    {
+      "iata": "LCK",
+      "enplanements": 154475
+    },
+    {
+      "iata": "GRK",
+      "enplanements": 154328
+    },
+    {
+      "iata": "UNV",
+      "enplanements": 153571
+    },
+    {
+      "iata": "AZO",
+      "enplanements": 152845
+    },
+    {
+      "iata": "OAJ",
+      "enplanements": 152448
+    },
+    {
+      "iata": "BLV",
+      "enplanements": 152278
+    },
+    {
+      "iata": "LBE",
+      "enplanements": 151410
+    },
+    {
+      "iata": "LNK",
+      "enplanements": 150214
+    },
+    {
+      "iata": "MOT",
+      "enplanements": 149865
+    },
+    {
+      "iata": "JQF",
+      "enplanements": 147065
+    },
+    {
+      "iata": "AEX",
+      "enplanements": 143173
+    },
+    {
+      "iata": "ELM",
+      "enplanements": 141075
+    },
+    {
+      "iata": "DLH",
+      "enplanements": 136806
+    },
+    {
+      "iata": "KTN",
+      "enplanements": 135389
+    },
+    {
+      "iata": "MTJ",
+      "enplanements": 133924
+    },
+    {
+      "iata": "IFP",
+      "enplanements": 131294
+    },
+    {
+      "iata": "MBS",
+      "enplanements": 127627
+    },
+    {
+      "iata": "ACK",
+      "enplanements": 126610
+    },
+    {
+      "iata": "CWA",
+      "enplanements": 124632
+    },
+    {
+      "iata": "TOL",
+      "enplanements": 123541
+    },
+    {
+      "iata": "SGU",
+      "enplanements": 123060
+    },
+    {
+      "iata": "COU",
+      "enplanements": 120235
+    },
+    {
+      "iata": "PBG",
+      "enplanements": 119783
+    },
+    {
+      "iata": "IAG",
+      "enplanements": 119182
+    },
+    {
+      "iata": "SAF",
+      "enplanements": 115787
+    },
+    {
+      "iata": "BRO",
+      "enplanements": 115711
+    },
+    {
+      "iata": "HLN",
+      "enplanements": 115438
+    },
+    {
+      "iata": "GFK",
+      "enplanements": 114578
+    },
+    {
+      "iata": "EWN",
+      "enplanements": 111172
+    },
+    {
+      "iata": "CMI",
+      "enplanements": 109878
+    },
+    {
+      "iata": "MLU",
+      "enplanements": 107107
+    },
+    {
+      "iata": "RFD",
+      "enplanements": 106710
+    },
+    {
+      "iata": "BFL",
+      "enplanements": 105104
+    },
+    {
+      "iata": "HTS",
+      "enplanements": 101701
+    },
+    {
+      "iata": "HDN",
+      "enplanements": 100079
+    },
+    {
+      "iata": "LSE",
+      "enplanements": 99651
+    },
+    {
+      "iata": "ITH",
+      "enplanements": 99070
+    },
+    {
+      "iata": "SCK",
+      "enplanements": 98908
+    },
+    {
+      "iata": "LRD",
+      "enplanements": 95858
+    },
+    {
+      "iata": "ERI",
+      "enplanements": 95342
+    },
+    {
+      "iata": "ENA",
+      "enplanements": 93889
+    },
+    {
+      "iata": "SUN",
+      "enplanements": 93280
+    },
+    {
+      "iata": "PSM",
+      "enplanements": 92836
+    },
+    {
+      "iata": "PSE",
+      "enplanements": 91966
+    },
+    {
+      "iata": "SIT",
+      "enplanements": 87119
+    },
+    {
+      "iata": "FSM",
+      "enplanements": 86973
+    },
+    {
+      "iata": "CPR",
+      "enplanements": 86905
+    },
+    {
+      "iata": "LYH",
+      "enplanements": 83392
+    },
+    {
+      "iata": "ADQ",
+      "enplanements": 81562
+    },
+    {
+      "iata": "PVU",
+      "enplanements": 80106
+    },
+    {
+      "iata": "NYL",
+      "enplanements": 79731
+    },
+    {
+      "iata": "MKK",
+      "enplanements": 79336
+    },
+    {
+      "iata": "CLL",
+      "enplanements": 79309
+    },
+    {
+      "iata": "ABI",
+      "enplanements": 77229
+    },
+    {
+      "iata": "SPI",
+      "enplanements": 76950
+    },
+    {
+      "iata": "XWA",
+      "enplanements": 75332
+    },
+    {
+      "iata": "PPG",
+      "enplanements": 74495
+    },
+    {
+      "iata": "MHK",
+      "enplanements": 72883
+    },
+    {
+      "iata": "ORH",
+      "enplanements": 71631
+    },
+    {
+      "iata": "ACV",
+      "enplanements": 69575
+    },
+    {
+      "iata": "YKM",
+      "enplanements": 69510
+    },
+    {
+      "iata": "OTZ",
+      "enplanements": 69070
+    },
+    {
+      "iata": "FLG",
+      "enplanements": 67793
+    },
+    {
+      "iata": "PUW",
+      "enplanements": 66699
+    },
+    {
+      "iata": "EAT",
+      "enplanements": 64528
+    },
+    {
+      "iata": "SBY",
+      "enplanements": 64393
+    },
+    {
+      "iata": "OME",
+      "enplanements": 64122
+    },
+    {
+      "iata": "GRI",
+      "enplanements": 63298
+    },
+    {
+      "iata": "LCH",
+      "enplanements": 58122
+    },
+    {
+      "iata": "LWS",
+      "enplanements": 57957
+    },
+    {
+      "iata": "ACT",
+      "enplanements": 57344
+    },
+    {
+      "iata": "ROW",
+      "enplanements": 56632
+    },
+    {
+      "iata": "SJT",
+      "enplanements": 55301
+    },
+    {
+      "iata": "SAW",
+      "enplanements": 53588
+    },
+    {
+      "iata": "DHN",
+      "enplanements": 52855
+    },
+    {
+      "iata": "MVY",
+      "enplanements": 52605
+    },
+    {
+      "iata": "PGV",
+      "enplanements": 51599
+    },
+    {
+      "iata": "ALW",
+      "enplanements": 49527
+    },
+    {
+      "iata": "CSG",
+      "enplanements": 49354
+    },
+    {
+      "iata": "TYR",
+      "enplanements": 48532
+    },
+    {
+      "iata": "LAW",
+      "enplanements": 48086
+    },
+    {
+      "iata": "TWF",
+      "enplanements": 47084
+    },
+    {
+      "iata": "HOM",
+      "enplanements": 46867
+    },
+    {
+      "iata": "BRW",
+      "enplanements": 46450
+    },
+    {
+      "iata": "PIH",
+      "enplanements": 46303
+    },
+    {
+      "iata": "GTR",
+      "enplanements": 46246
+    },
+    {
+      "iata": "SUX",
+      "enplanements": 44779
+    },
+    {
+      "iata": "VLD",
+      "enplanements": 44609
+    },
+    {
+      "iata": "FLO",
+      "enplanements": 44333
+    },
+    {
+      "iata": "AKN",
+      "enplanements": 44131
+    },
+    {
+      "iata": "SCC",
+      "enplanements": 43655
+    },
+    {
+      "iata": "RDD",
+      "enplanements": 42775
+    },
+    {
+      "iata": "LNY",
+      "enplanements": 42061
+    },
+    {
+      "iata": "BQK",
+      "enplanements": 40443
+    },
+    {
+      "iata": "JLN",
+      "enplanements": 40013
+    },
+    {
+      "iata": "ABY",
+      "enplanements": 39422
+    },
+    {
+      "iata": "COD",
+      "enplanements": 39407
+    },
+    {
+      "iata": "HVN",
+      "enplanements": 38991
+    },
+    {
+      "iata": "DBQ",
+      "enplanements": 38831
+    },
+    {
+      "iata": "TNI",
+      "enplanements": 38664
+    },
+    {
+      "iata": "SPS",
+      "enplanements": 38026
+    },
+    {
+      "iata": "TXK",
+      "enplanements": 37599
+    },
+    {
+      "iata": "CKB",
+      "enplanements": 36917
+    },
+    {
+      "iata": "BGM",
+      "enplanements": 36382
+    },
+    {
+      "iata": "HXD",
+      "enplanements": 36308
+    },
+    {
+      "iata": "GUC",
+      "enplanements": 36238
+    },
+    {
+      "iata": "DLG",
+      "enplanements": 34496
+    },
+    {
+      "iata": "PIR",
+      "enplanements": 30124
+    },
+    {
+      "iata": "BJI",
+      "enplanements": 30081
+    },
+    {
+      "iata": "DUT",
+      "enplanements": 29229
+    },
+    {
+      "iata": "VQS",
+      "enplanements": 29022
+    },
+    {
+      "iata": "ABR",
+      "enplanements": 28404
+    },
+    {
+      "iata": "HYA",
+      "enplanements": 28341
+    },
+    {
+      "iata": "BPT",
+      "enplanements": 27694
+    },
+    {
+      "iata": "SWO",
+      "enplanements": 27321
+    },
+    {
+      "iata": "GCC",
+      "enplanements": 27136
+    },
+    {
+      "iata": "BTM",
+      "enplanements": 25803
+    },
+    {
+      "iata": "PLN",
+      "enplanements": 25464
+    },
+    {
+      "iata": "PGA",
+      "enplanements": 25387
+    },
+    {
+      "iata": "GCK",
+      "enplanements": 25243
+    },
+    {
+      "iata": "GGG",
+      "enplanements": 24588
+    },
+    {
+      "iata": "PSG",
+      "enplanements": 24520
+    },
+    {
+      "iata": "RHI",
+      "enplanements": 24477
+    },
+    {
+      "iata": "CMX",
+      "enplanements": 24041
+    },
+    {
+      "iata": "EAU",
+      "enplanements": 23950
+    },
+    {
+      "iata": "ALO",
+      "enplanements": 23892
+    },
+    {
+      "iata": "ART",
+      "enplanements": 23844
+    },
+    {
+      "iata": "HGR",
+      "enplanements": 23654
+    },
+    {
+      "iata": "MMH",
+      "enplanements": 23522
+    },
+    {
+      "iata": "HOB",
+      "enplanements": 23475
+    },
+    {
+      "iata": "OGS",
+      "enplanements": 23448
+    },
+    {
+      "iata": "CIU",
+      "enplanements": 23324
+    },
+    {
+      "iata": "RKS",
+      "enplanements": 23020
+    },
+    {
+      "iata": "SMX",
+      "enplanements": 23008
+    },
+    {
+      "iata": "DIK",
+      "enplanements": 22595
+    },
+    {
+      "iata": "IPT",
+      "enplanements": 22547
+    },
+    {
+      "iata": "STC",
+      "enplanements": 22464
+    },
+    {
+      "iata": "BRD",
+      "enplanements": 22233
+    },
+    {
+      "iata": "RVR",
+      "enplanements": 21870
+    },
+    {
+      "iata": "PAH",
+      "enplanements": 20934
+    },
+    {
+      "iata": "IMT",
+      "enplanements": 19552
+    },
+    {
+      "iata": "OWB",
+      "enplanements": 19532
+    },
+    {
+      "iata": "MEI",
+      "enplanements": 19332
+    },
+    {
+      "iata": "MKG",
+      "enplanements": 18718
+    },
+    {
+      "iata": "BFI",
+      "enplanements": 18586
+    },
+    {
+      "iata": "ESC",
+      "enplanements": 18474
+    },
+    {
+      "iata": "EKO",
+      "enplanements": 18363
+    },
+    {
+      "iata": "OGD",
+      "enplanements": 18327
+    },
+    {
+      "iata": "WST",
+      "enplanements": 17694
+    },
+    {
+      "iata": "CDV",
+      "enplanements": 17654
+    },
+    {
+      "iata": "INL",
+      "enplanements": 17225
+    },
+    {
+      "iata": "LAR",
+      "enplanements": 17188
+    },
+    {
+      "iata": "RKD",
+      "enplanements": 17133
+    },
+    {
+      "iata": "HIB",
+      "enplanements": 17111
+    },
+    {
+      "iata": "BID",
+      "enplanements": 16809
+    },
+    {
+      "iata": "UNK",
+      "enplanements": 16208
+    },
+    {
+      "iata": "SLN",
+      "enplanements": 15977
+    },
+    {
+      "iata": "CDC",
+      "enplanements": 15835
+    },
+    {
+      "iata": "MCN",
+      "enplanements": 15431
+    },
+    {
+      "iata": "CPX",
+      "enplanements": 14612
+    },
+    {
+      "iata": "BFF",
+      "enplanements": 14295
+    },
+    {
+      "iata": "SIG",
+      "enplanements": 14106
+    },
+    {
+      "iata": "CNY",
+      "enplanements": 14035
+    },
+    {
+      "iata": "WRG",
+      "enplanements": 14033
+    },
+    {
+      "iata": "LBF",
+      "enplanements": 13798
+    },
+    {
+      "iata": "TUP",
+      "enplanements": 13557
+    },
+    {
+      "iata": "AKW",
+      "enplanements": 13503
+    },
+    {
+      "iata": "FHR",
+      "enplanements": 13497
+    },
+    {
+      "iata": "SHR",
+      "enplanements": 13182
+    },
+    {
+      "iata": "CCR",
+      "enplanements": 13077
+    },
+    {
+      "iata": "LHD",
+      "enplanements": 12898
+    },
+    {
+      "iata": "ANI",
+      "enplanements": 12853
+    },
+    {
+      "iata": "OTH",
+      "enplanements": 12369
+    },
+    {
+      "iata": "SHD",
+      "enplanements": 12179
+    },
+    {
+      "iata": "ATY",
+      "enplanements": 12064
+    },
+    {
+      "iata": "HYS",
+      "enplanements": 11996
+    },
+    {
+      "iata": "RIW",
+      "enplanements": 11811
+    },
+    {
+      "iata": "YAK",
+      "enplanements": 11800
+    },
+    {
+      "iata": "JMS",
+      "enplanements": 11768
+    },
+    {
+      "iata": "UIN",
+      "enplanements": 11633
+    },
+    {
+      "iata": "GRO",
+      "enplanements": 11625
+    },
+    {
+      "iata": "APN",
+      "enplanements": 11614
+    },
+    {
+      "iata": "KSM",
+      "enplanements": 11442
+    },
+    {
+      "iata": "MWA",
+      "enplanements": 11078
+    },
+    {
+      "iata": "GST",
+      "enplanements": 11023
+    },
+    {
+      "iata": "PQI",
+      "enplanements": 10865
+    },
+    {
+      "iata": "VEL",
+      "enplanements": 10658
+    },
+    {
+      "iata": "MRI",
+      "enplanements": 10478
+    },
+    {
+      "iata": "PUB",
+      "enplanements": 10459
+    },
+    {
+      "iata": "LEB",
+      "enplanements": 10360
+    },
+    {
+      "iata": "LWB",
+      "enplanements": 10359
+    },
+    {
+      "iata": "PRC",
+      "enplanements": 10337
+    },
+    {
+      "iata": "PVC",
+      "enplanements": 10316
+    },
+    {
+      "iata": "VRB",
+      "enplanements": 10314
+    },
+    {
+      "iata": "BED",
+      "enplanements": 10194
+    },
+    {
+      "iata": "ORS",
+      "enplanements": 10101
+    },
+    {
+      "iata": "SDY",
+      "enplanements": 10055
+    },
+    {
+      "iata": "VDZ",
+      "enplanements": 10050
+    },
+    {
+      "iata": "WYS",
+      "enplanements": 8200
+    },
+    {
+      "iata": 266,
+      "enplanements": ""
+    },
+    {
+      "iata": "PIB",
+      "enplanements": 9813
+    },
+    {
+      "iata": "DEC",
+      "enplanements": 9519
+    },
+    {
+      "iata": "GAL",
+      "enplanements": 9440
+    },
+    {
+      "iata": "CGI",
+      "enplanements": 9160
+    },
+    {
+      "iata": "ENM",
+      "enplanements": 9117
+    },
+    {
+      "iata": "BRL",
+      "enplanements": 8513
+    },
+    {
+      "iata": "BHB",
+      "enplanements": 8507
+    },
+    {
+      "iata": "FOD",
+      "enplanements": 8359
+    },
+    {
+      "iata": "MCW",
+      "enplanements": 8278
+    },
+    {
+      "iata": "CEZ",
+      "enplanements": 8045
+    },
+    {
+      "iata": "HNS",
+      "enplanements": 8026
+    },
+    {
+      "iata": "LBL",
+      "enplanements": 7985
+    },
+    {
+      "iata": "EWB",
+      "enplanements": 7956
+    },
+    {
+      "iata": "TBN",
+      "enplanements": 7717
+    },
+    {
+      "iata": "MCE",
+      "enplanements": 7355
+    },
+    {
+      "iata": "SGY",
+      "enplanements": 7324
+    },
+    {
+      "iata": "ALS",
+      "enplanements": 7125
+    },
+    {
+      "iata": "AQH",
+      "enplanements": 7071
+    },
+    {
+      "iata": "CDB",
+      "enplanements": 7042
+    },
+    {
+      "iata": "MAZ",
+      "enplanements": 6838
+    },
+    {
+      "iata": "HNH",
+      "enplanements": 6817
+    },
+    {
+      "iata": "IPL",
+      "enplanements": 6648
+    },
+    {
+      "iata": "FYU",
+      "enplanements": 6641
+    },
+    {
+      "iata": "DVL",
+      "enplanements": 6628
+    },
+    {
+      "iata": "PDT",
+      "enplanements": 6396
+    },
+    {
+      "iata": "IIK",
+      "enplanements": 6186
+    },
+    {
+      "iata": "MSL",
+      "enplanements": 6123
+    },
+    {
+      "iata": "CXF",
+      "enplanements": 6020
+    },
+    {
+      "iata": "LNS",
+      "enplanements": 6012
+    },
+    {
+      "iata": "SVC",
+      "enplanements": 5949
+    },
+    {
+      "iata": "CEC",
+      "enplanements": 5907
+    },
+    {
+      "iata": "VAK",
+      "enplanements": 5891
+    },
+    {
+      "iata": "MGW",
+      "enplanements": 5890
+    },
+    {
+      "iata": "CRQ",
+      "enplanements": 5856
+    },
+    {
+      "iata": "JBR",
+      "enplanements": 5839
+    },
+    {
+      "iata": "MKL",
+      "enplanements": 5706
+    },
+    {
+      "iata": "GLH",
+      "enplanements": 5634
+    },
+    {
+      "iata": "RUT",
+      "enplanements": 5554
+    },
+    {
+      "iata": "ILI",
+      "enplanements": 5553
+    },
+    {
+      "iata": "AUG",
+      "enplanements": 5530
+    },
+    {
+      "iata": "DUJ",
+      "enplanements": 5448
+    },
+    {
+      "iata": "IWD",
+      "enplanements": 5335
+    },
+    {
+      "iata": "HRO",
+      "enplanements": 5307
+    },
+    {
+      "iata": "IRK",
+      "enplanements": 5306
+    },
+    {
+      "iata": "SLK",
+      "enplanements": 5273
+    },
+    {
+      "iata": "CDR",
+      "enplanements": 5218
+    },
+    {
+      "iata": "HPB",
+      "enplanements": 5160
+    },
+    {
+      "iata": "CNM",
+      "enplanements": 5124
+    },
+    {
+      "iata": "WLK",
+      "enplanements": 5094
+    },
+    {
+      "iata": "WTK",
+      "enplanements": 4984
+    },
+    {
+      "iata": "TVF",
+      "enplanements": 4805
+    },
+    {
+      "iata": "HOT",
+      "enplanements": 4775
+    },
+    {
+      "iata": "CVN",
+      "enplanements": 4750
+    },
+    {
+      "iata": "BVK",
+      "enplanements": 4694
+    },
+    {
+      "iata": "D76",
+      "enplanements": 4584
+    },
+    {
+      "iata": "EAR",
+      "enplanements": 4568
+    },
+    {
+      "iata": "PHO",
+      "enplanements": 4515
+    },
+    {
+      "iata": "MSS",
+      "enplanements": 4463
+    },
+    {
+      "iata": "SCM",
+      "enplanements": 4417
+    },
+    {
+      "iata": "JST",
+      "enplanements": 4381
+    },
+    {
+      "iata": "SOV",
+      "enplanements": 4315
+    },
+    {
+      "iata": "A61",
+      "enplanements": 4296
+    },
+    {
+      "iata": "OOK",
+      "enplanements": 4294
+    },
+    {
+      "iata": "Z09",
+      "enplanements": 4273
+    },
+    {
+      "iata": "GGW",
+      "enplanements": 4201
+    },
+    {
+      "iata": "BFD",
+      "enplanements": 4191
+    },
+    {
+      "iata": "AOO",
+      "enplanements": 4103
+    },
+    {
+      "iata": "MUE",
+      "enplanements": 4068
+    },
+    {
+      "iata": "SOW",
+      "enplanements": 4042
+    },
+    {
+      "iata": "CFK",
+      "enplanements": 4002
+    },
+    {
+      "iata": "YIP",
+      "enplanements": 3987
+    },
+    {
+      "iata": "SVA",
+      "enplanements": 3926
+    },
+    {
+      "iata": "OLF",
+      "enplanements": 3851
+    },
+    {
+      "iata": "DDC",
+      "enplanements": 3831
+    },
+    {
+      "iata": "WBB",
+      "enplanements": 3798
+    },
+    {
+      "iata": "AWI",
+      "enplanements": 3761
+    },
+    {
+      "iata": "IAN",
+      "enplanements": 3718
+    },
+    {
+      "iata": "DUY",
+      "enplanements": 3712
+    },
+    {
+      "iata": "2A9",
+      "enplanements": 3709
+    },
+    {
+      "iata": "KWT",
+      "enplanements": 3685
+    },
+    {
+      "iata": "ELD",
+      "enplanements": 3655
+    },
+    {
+      "iata": "SDP",
+      "enplanements": 3636
+    },
+    {
+      "iata": "GAM",
+      "enplanements": 3610
+    },
+    {
+      "iata": "KVL",
+      "enplanements": 3580
+    },
+    {
+      "iata": "16A",
+      "enplanements": 3443
+    },
+    {
+      "iata": "KLG",
+      "enplanements": 3425
+    },
+    {
+      "iata": "EEK",
+      "enplanements": 3382
+    },
+    {
+      "iata": "AKP",
+      "enplanements": 3369
+    },
+    {
+      "iata": "SHH",
+      "enplanements": 3350
+    },
+    {
+      "iata": "GGV",
+      "enplanements": 3320
+    },
+    {
+      "iata": "KAE",
+      "enplanements": 3309
+    },
+    {
+      "iata": "Z13",
+      "enplanements": 3308
+    },
+    {
+      "iata": "LUP",
+      "enplanements": 3256
+    },
+    {
+      "iata": "HVR",
+      "enplanements": 3237
+    },
+    {
+      "iata": "CYS",
+      "enplanements": 3234
+    },
+    {
+      "iata": "MOU",
+      "enplanements": 3222
+    },
+    {
+      "iata": "PKB",
+      "enplanements": 3182
+    },
+    {
+      "iata": "BTI",
+      "enplanements": 3135
+    },
+    {
+      "iata": "HLA",
+      "enplanements": 3128
+    },
+    {
+      "iata": "TCL",
+      "enplanements": 3058
+    },
+    {
+      "iata": "PAE",
+      "enplanements": 3037
+    },
+    {
+      "iata": "0AK",
+      "enplanements": 3016
+    },
+    {
+      "iata": "FOE",
+      "enplanements": 2965
+    },
+    {
+      "iata": "AIA",
+      "enplanements": 2921
+    },
+    {
+      "iata": "ADK",
+      "enplanements": 2901
+    },
+    {
+      "iata": "AUK",
+      "enplanements": 2837
+    },
+    {
+      "iata": "TLT",
+      "enplanements": 2776
+    },
+    {
+      "iata": "VCT",
+      "enplanements": 2761
+    },
+    {
+      "iata": "GDV",
+      "enplanements": 2739
+    },
+    {
+      "iata": "DRT",
+      "enplanements": 2712
+    },
+    {
+      "iata": "ELI",
+      "enplanements": 2694
+    },
+    {
+      "iata": "HNM",
+      "enplanements": 2676
+    },
+    {
+      "iata": "2C7",
+      "enplanements": 2659
+    },
+    {
+      "iata": "MDM",
+      "enplanements": 2643
+    },
+    {
+      "iata": "YNG",
+      "enplanements": 2636
+    },
+    {
+      "iata": "KTS",
+      "enplanements": 2626
+    },
+    {
+      "iata": "SNP",
+      "enplanements": 2596
+    },
+    {
+      "iata": "NUL",
+      "enplanements": 2585
+    },
+    {
+      "iata": "4A2",
+      "enplanements": 2551
+    },
+    {
+      "iata": "FNL",
+      "enplanements": 2538
+    },
+    {
+      "iata": "AKI",
+      "enplanements": 2525
+    },
+    {
+      "iata": "RSH",
+      "enplanements": 2506
+    },
+    {
+      "iata": "AFM",
+      "enplanements": 2501
+    },
+    {
+      "iata": 123,
+      "enplanements": ""
+    },
+    {
+      "iata": 519,
+      "enplanements": ""
+    }
+  ]

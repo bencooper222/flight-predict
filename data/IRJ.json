@@ -1,0 +1,1 @@
+[{"airlineIata":"AR","arrivalIata":"AEP","departureIata":"IRJ","codeshares":null,"flightNumber":"1440","arrivalTime":"11:25:00","departureTime":"09:50:00"},{"airlineIata":"AU","arrivalIata":"AEP","departureIata":"IRJ","codeshares":[{"airline_code":"AR","flight_number":"2443"}],"flightNumber":"2443","arrivalTime":"22:26:00","departureTime":"20:50:00"}]

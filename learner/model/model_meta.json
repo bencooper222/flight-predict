@@ -1,0 +1,1 @@
+{"data":{"inputMin":[5,2538,2538],"inputMax":[4976,51865796,51865796],"outputMin":[1],"outputMax":[140]},"meta":{"inputUnits":3,"outputUnits":1,"inputs":{"d":{"dtype":"number"},"de":{"dtype":"number"},"ae":{"dtype":"number"}},"outputs":{"count":{"dtype":"number"}},"isNormalized":true}}

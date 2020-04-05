@@ -1,0 +1,1 @@
+[{"airlineIata":"5C","arrivalIata":"SJO","departureIata":"DRK","codeshares":null,"flightNumber":"121","arrivalTime":"10:30:00","departureTime":"09:55:00"},{"airlineIata":"RZ","arrivalIata":"SJO","departureIata":"DRK","codeshares":[{"airline_code":"LR","flight_number":"1097"}],"flightNumber":"1097","arrivalTime":"09:55:00","departureTime":"09:00:00"}]

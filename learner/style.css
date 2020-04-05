@@ -1,0 +1,15 @@
+body,
+html {
+  height: 100vh;
+  min-height: 100%;
+}
+#indicator {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+}
+
+.green {
+  background-color: green;
+  color: green;
+}
