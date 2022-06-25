@@ -10,7 +10,7 @@
     "geodist": "^0.2.1",
     "leaflet": "^1.6.0",
     "ml5": "^0.5.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "parcel-plugin-static-files-copy": "^2.3.1",
     "yargs": "^15.1.0"
   },
